@@ -8,3 +8,9 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+
+####
+.obsidian/workspace.json
+.obsidian/themes
+.obsidian/appearance.json
