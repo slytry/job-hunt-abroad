@@ -8,5 +8,24 @@
       "key": "D"
     }
   ],
-  "workspace:goto-last-tab": []
+  "workspace:goto-last-tab": [],
+  "table-editor-obsidian:table-control-bar": [],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ]
 }
