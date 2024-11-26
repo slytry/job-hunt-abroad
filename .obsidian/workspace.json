@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "7e2b829b10a6b2d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8d760f53abee3bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65109ebebcc35428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/index.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "3a0d629cda27eedf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/node.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "node"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad902c098f1ce082",
+    "type": "split",
+    "children": [
+      {
+        "id": "4124107d75f51d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42839408afc799ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae286f6919551edd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0751d5ad216be04d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d298dd5c0b4f29f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "00ade2ca8a115135",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2bf13f861392fe2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/notes/Полиглот.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Полиглот"
+            }
+          },
+          {
+            "id": "23f94ff0f7127187",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/notes/Полиглот.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Полиглот"
+            }
+          },
+          {
+            "id": "270d613238d332d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3f54b2680079c3af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/notes/Полиглот.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Полиглот"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "3a0d629cda27eedf",
+  "lastOpenFiles": [
+    "content/notes/fsg.md",
+    "content/notes/node.md",
+    "content/notes/fs.md",
+    "content/template/simple.md",
+    "content/index.md",
+    "content/notes/Полиглот.md",
+    "content/template",
+    "content/notes",
+    "content/files",
+    "fg.md",
+    "node_modules/fflate/CHANGELOG.md",
+    "docs/index.md",
+    "docs/layout.md",
+    "docs/migrating from Quartz 3.md",
+    "docs/philosophy.md",
+    "docs/setting up your GitHub repository.md",
+    "docs/showcase.md",
+    "docs/upgrading.md",
+    "Enli.md",
+    "content"
+  ]
+}

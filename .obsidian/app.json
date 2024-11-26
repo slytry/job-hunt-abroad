@@ -1,0 +1,9 @@
+{
+  "defaultViewMode": "source",
+  "livePreview": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/notes",
+  "attachmentFolderPath": "./content/files",
+  "promptDelete": false
+}
